@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AI-drawing-picture</string>
+    <string name="finish_msg">한번 더 누르시면 종료됩니다.</string>
+    <string name="main_bottom_navi_draw_text">그림생성</string>
+    <string name="main_bottom_navi_community_text">커뮤니티</string>
+    <string name="main_bottom_navi_myprofile_text">프로필</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.mtjin.bungsegwon.base
+package com.mtjin.ai_drawing_picture.base
 
 import android.os.Bundle
 import android.view.LayoutInflater
