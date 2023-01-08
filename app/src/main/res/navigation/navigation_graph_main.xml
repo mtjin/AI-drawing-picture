@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph_home.xml"
+    app:startDestination="@id/mainDrawFragment">
+    <keep_state_fragment
+        android:id="@+id/mainDrawFragment"
+        android:name="com.mtjin.ai_drawing_picture.views.main.draw.MainDrawFragment"
+        android:label="fragment_main_draw"
+        tools:layout="@layout/fragment_main_draw" />
+
+    <keep_state_fragment
+        android:id="@+id/mainCommunityFragment"
+        android:name="com.mtjin.ai_drawing_picture.views.main.community.MainCommunityFragment"
+        android:label="fragment_main_community"
+        tools:layout="@layout/fragment_main_community" />
+
+    <keep_state_fragment
+        android:id="@+id/mainMyProfileFragment"
+        android:name="com.mtjin.ai_drawing_picture.views.main.myprofile.MainMyProfileFragment"
+        android:label="fragment_main_myprofile"
+        tools:layout="@layout/fragment_main_my_profile" />
+
+</navigation>
