@@ -50,6 +50,5 @@ class MainFragment : BaseFragment<FragmentMainBinding>(R.layout.fragment_main) {
         navController.navigatorProvider.addNavigator(keepStateNavigator)
         navController.setGraph(R.navigation.navigation_graph_main)
         binding.mainBottomNavigation.setupWithNavController(navController)
-        binding.mainBottomNavigation.itemIconTintList = null
     }
 }

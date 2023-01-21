@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Git/AIdrawingpicture/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1665" />
+        <entry key="..\:/Git/AIdrawingpicture/app/src/main/res/drawable/ic_main_home_navi_community_24.xml" value="0.1525" />
+        <entry key="..\:/Git/AIdrawingpicture/app/src/main/res/drawable/ic_main_home_navi_draw_24.xml" value="0.1525" />
         <entry key="..\:/Git/AIdrawingpicture/app/src/main/res/drawable/rect_round_white_top_radius_16.xml" value="0.1715" />
         <entry key="..\:/Git/AIdrawingpicture/app/src/main/res/layout/activity_main.xml" value="0.14791666666666667" />
-        <entry key="..\:/Git/AIdrawingpicture/app/src/main/res/layout/fragment_main.xml" value="0.1625" />
+        <entry key="..\:/Git/AIdrawingpicture/app/src/main/res/layout/fragment_main.xml" value="0.33" />
         <entry key="..\:/Git/AIdrawingpicture/app/src/main/res/layout/fragment_main_community.xml" value="0.1118659420289855" />
         <entry key="..\:/Git/AIdrawingpicture/app/src/main/res/layout/fragment_main_my.xml" value="0.35280797101449274" />
         <entry key="..\:/Git/AIdrawingpicture/app/src/main/res/layout/fragment_main_search.xml" value="0.35280797101449274" />
